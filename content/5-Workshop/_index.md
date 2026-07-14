@@ -37,12 +37,11 @@ The evidence images do not expose database passwords, OAuth client secrets, toke
 
 #### Contents
 
-1. [Architecture Overview](5.1-Workshop-overview/)
-2. [Prepare the Deployment Environment](5.2-Prerequiste/)
-3. [Configure Networking and Security Groups](5.3-S3-vpc/)
-4. [S3, RDS, Secrets Manager, and IAM](5.4-S3-onprem/)
-5. [EC2, Application Load Balancer, and Auto Scaling Group](5.5-Policy/)
-6. [Route 53, ACM, HTTPS, and Testing](5.6-Cleanup/)
-7. [Operations, Monitoring, Alerting, and Troubleshooting](5.7-Operation/)
-8. [Resource Cleanup](5.8-Cleanup/)
-
+1. [Architecture](5.1-architecture/)
+2. [Preparation](5.2-preparation/)
+3. [Network and Security](5.3-network/)
+4. [Data and Access](5.4-data-access/)
+5. [EC2 and Load Balancing](5.5-compute/)
+6. [Domain and HTTPS](5.6-domain-https/)
+7. [Operations](5.7-operations/)
+8. [Cleanup](5.8-resource-cleanup/)

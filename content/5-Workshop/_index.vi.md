@@ -37,13 +37,13 @@ Các ảnh minh chứng không hiển thị DB password, OAuth client secret, to
 
 #### Nội dung
 
-1. [Tổng quan kiến trúc](5.1-Workshop-overview/)
-2. [Chuẩn bị môi trường triển khai](5.2-Prerequiste/)
-3. [Cấu hình mạng và Security Group](5.3-S3-vpc/)
-4. [S3, RDS, Secrets Manager và IAM](5.4-S3-onprem/)
-5. [EC2, Application Load Balancer và Auto Scaling Group](5.5-Policy/)
-6. [Route 53, ACM, HTTPS và kiểm thử](5.6-Cleanup/)
-7. [Vận hành, giám sát, cảnh báo và xử lý lỗi](5.7-Operation/)
-8. [Dọn dẹp tài nguyên](5.8-Cleanup/)
+1. [Kiến trúc](5.1-architecture/)
+2. [Chuẩn bị](5.2-preparation/)
+3. [Mạng và bảo mật](5.3-network/)
+4. [Dữ liệu và phân quyền](5.4-data-access/)
+5. [EC2 và cân bằng tải](5.5-compute/)
+6. [Tên miền và HTTPS](5.6-domain-https/)
+7. [Vận hành](5.7-operations/)
+8. [Dọn dẹp](5.8-resource-cleanup/)
 
 
